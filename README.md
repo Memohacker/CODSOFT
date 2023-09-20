@@ -1,2 +1,2 @@
-# Data_Science_CodeSoft_Intern_Tasks
+# CODSOFT
 Data scinece intern projects
